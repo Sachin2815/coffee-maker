@@ -1,2 +1,2 @@
-# coffee-maker-through-your-own-voice
+# coffee-maker-through-your-voice
 you can order coffee with our own voice
